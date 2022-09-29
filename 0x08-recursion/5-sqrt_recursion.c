@@ -1,10 +1,10 @@
-#include "holberton.h"
+#include "main.h"
 
 int actual_sqrt_recursion(int n, int k);
 
 /**
  * _sqrt_recursion - returns the natural square root of a number
- * @n: number to calculate the square root of
+ * @m: number to calculate the square root of
  *
  * Return: the resulting square root
  */
